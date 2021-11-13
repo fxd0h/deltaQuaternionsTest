@@ -1,0 +1,3 @@
+[submodule "cqrlib"]
+	path = cqrlib
+	url = https://github.com/yayahjb/cqrlib.git
